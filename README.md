@@ -9,10 +9,10 @@ This presentation outlines an example of creating and responding to a Help Ticke
 # Create a Ticket
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/O2cG7Hf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1. From the User login page we can sign in to a User profile or start a Ticket as a guest user.
 </p>
 <br />
 
