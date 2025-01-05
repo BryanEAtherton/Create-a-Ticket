@@ -28,15 +28,15 @@ This presentation outlines an example of creating and responding to a Help Ticke
 <img src="https://i.imgur.com/tNjhSnJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. From the New Ticket page we can select a Help Topic and fill out details about the issue we might be experiencing then click Create Ticket. 
+3. From the New Ticket page we can select a Help Topic and fill out details about the issue we might be experiencing, then click Create Ticket. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/llb0RdM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+4. Observe the created ticket on the User's profile.
 </p>
 <br />
 
