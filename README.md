@@ -17,10 +17,10 @@ This presentation outlines an example of creating and responding to a Help Ticke
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fRCkI9o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2. We will sign in as the User we created in the previous section, osTicket-Post-Installation Configuration; Configure Users.
 </p>
 <br />
 
