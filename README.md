@@ -24,6 +24,8 @@ This presentation outlines an example of creating and responding to a Help Ticke
 </p>
 <br />
 
+[Click here to view osTicket Post-Installation Configuration; Configure Users](https://github.com/BryanEAtherton/Configure-Users)
+
 <p>
 <img src="https://i.imgur.com/tNjhSnJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
